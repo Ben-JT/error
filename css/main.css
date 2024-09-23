@@ -18,7 +18,7 @@ body {
   background-color: var(--dark-color);
   overflow: hidden;
   perspective: 1000px;
-  background-image: url('/img/luciernagas.jpg');
+  background-image: url('/img/luci.png');
   background-size: cover; /* Hace que la imagen cubra todo el área */
   background-position: center; /* Centra la imagen */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
